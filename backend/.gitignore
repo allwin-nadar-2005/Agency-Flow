@@ -1,0 +1,13 @@
+# Node Dependencies
+node_modules/
+
+# Compiled Output
+dist/
+
+# Environment Secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log

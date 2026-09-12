@@ -1,0 +1,15 @@
+# Node Dependencies
+node_modules/
+
+# Production Build Output
+dist/
+dist-ssr/
+*.local
+
+# Environment Secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
